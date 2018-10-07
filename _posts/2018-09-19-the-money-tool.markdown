@@ -4,7 +4,7 @@ title:  "the money tool"
 date:   2018-09-19 14:34:25
 categories: blog feature
 tags: featured
-image: /assets/article_images/2018-09-19-the-money-tool/two-dollar-bill.JPG
+image: /assets/article_images/2018-09-19-the-money-tool/two-dollar-bill.jpg
 ---
 
 ## Many of us including myself have been confused lately. So allow me to clear that up. 
