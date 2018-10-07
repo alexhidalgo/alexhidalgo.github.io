@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: Our Thoughts
+title: Lightbulbs
 description: > # this means to ignore newlines until "email:"
-   I blog. Sometimes.
+   Interesting ideas in my head. Don't read them.
 
 email: thealexhidalgo@gmail.com
 #blog logo
